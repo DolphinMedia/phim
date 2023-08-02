@@ -1,4 +1,5 @@
-
+#EXTINF:-1 group-title="Teen Titans" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fteen-titans-rac-roi-o-tokyo-thumb.jpg&w=256&q=75", Teen Titans : Rắc rối ở Tokyo
+https://kd.opstream3.com/20230307/33504_d318c49a/index.m3u8
 
 #EXTM3U
 
@@ -25,6 +26,13 @@ https://vie2.opstream7.com/20230721/562_7e6a20e6/index.m3u8
 
 #EXTM3U
 
+#EXTINF:-1 group-title="Venom" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fvenom-thumb.jpg&w=256&q=75", Venom
+https://1080.opstream4.com/20220315/2089_621bce2f/index.m3u8
+
+#EXTINF:-1 group-title="Venom" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fvenom-let-there-be-carnage-thumb.jpg&w=256&q=75", Venom: Đối mặt tử thù
+https://kd.opstream3.com/20220318/1632_99677dbd/index.m3u8
+
+#EXTM3U
 
 #EXTINF:-1 group-title="Siêu nhân Gao" tvg-logo="https://img.ophim8.cc/uploads/movies/sieu-nhan-gao-2011-thumb.jpg", Hyakujuu Sentai Gaoranger : Tập 1
 https://hd1080.opstream2.com/20220418/5279_74cc480d/index.m3u8
