@@ -344,61 +344,61 @@ https://hd1080.opstream2.com/20220504/11125_20f46518/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 1
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 1
 https://hd1080.opstream2.com/20220426/8989_0c6cbb9e/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 2
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 2
 https://hd1080.opstream2.com/20220426/8991_cc88062a/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 3
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 3
 https://hd1080.opstream2.com/20220426/8993_2750734f/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 4
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 4
 https://hd1080.opstream2.com/20220426/8995_c5130018/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 5
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 5
 https://hd1080.opstream2.com/20220426/8996_56b8f15a/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 6
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 6
 https://hd1080.opstream2.com/20220426/8998_67c030d8/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 7
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 7
 https://hd1080.opstream2.com/20220426/9000_025bfcf1/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 8
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 8
 https://hd1080.opstream2.com/20220426/9002_6bb00b53/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 9
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 9
 https://hd1080.opstream2.com/20220426/9004_4052a6d6/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 10
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 10
 https://hd1080.opstream2.com/20220426/9006_86a11bbe/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 11
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 11
 https://hd1080.opstream2.com/20220426/9007_49010e4c/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 12
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 12
 https://hd1080.opstream2.com/20220426/9009_4142cd93/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 13
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 13
 https://hd1080.opstream2.com/20220426/9011_1a3329db/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 14
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 14
 https://hd1080.opstream2.com/20220426/9013_0fd46559/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 15
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 15
 https://hd1080.opstream2.com/20220426/9014_436e5ad7/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 16
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 16
 https://hd1080.opstream2.com/20220426/9016_942f5b68/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 17
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 17
 https://hd1080.opstream2.com/20220426/9018_05232b2c/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 18
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 18
 https://hd1080.opstream2.com/20220426/9019_2341dfe7/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 19
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 19
 https://hd1080.opstream2.com/20220426/9021_4bd6351b/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 20
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 20
 https://hd1080.opstream2.com/20220426/9023_525f69cd/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 21
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 21
 https://hd1080.opstream2.com/20220426/9024_c778eee8/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 22
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 22
 https://hd1080.opstream2.com/20220426/9026_29125138/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 23
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 23
 https://hd1080.opstream2.com/20220426/9028_097d1a6d/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 24
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 24
 https://hd1080.opstream2.com/20220426/9030_a031a5a8/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 25
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 25
 https://hd1080.opstream2.com/20220426/9031_587d34b1/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 26
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 26
 https://hd1080.opstream2.com/20220426/9033_ac30dd51/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 27
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 27
 https://hd1080.opstream2.com/20220426/9034_d2c87512/index.m3u8
-#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice - Tập 28
+#EXTINF:-1 group-title="Kamen Rider Revice (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/hiep-si-mat-na-revice-thumb.jpg", Kamen Rider Revice : Tập 28
 https://hd1080.opstream2.com/20220426/9036_cd930e97/index.m3u8
 
 #EXTM3U
