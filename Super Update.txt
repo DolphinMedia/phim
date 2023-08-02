@@ -1,4 +1,31 @@
+
+
 #EXTM3U
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 1
+https://kd.opstream3.com/20220307/909_b89235f9/index.m3u8
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 2
+https://aa.opstream6.com/20220310/2931_99c0ee4a/index.m3u8
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 3
+https://kd.opstream3.com/20220307/917_0a223f43/index.m3u8
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 4
+https://hd1080.opstream2.com/20230112/31635_9cbd3d2c/index.m3u8
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 5
+https://aa.opstream6.com/20220417/10991_b2ba26e0/index.m3u8
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 6
+https://kd.opstream3.com/20220318/1605_475ce283/index.m3u8
+
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 7 : NGHIỆP BÁO PHẦN 1
+https://vie2.opstream7.com/20230721/562_7e6a20e6/index.m3u8
+
+#EXTM3U
+
+
 #EXTINF:-1 group-title="Siêu nhân Gao" tvg-logo="https://img.ophim8.cc/uploads/movies/sieu-nhan-gao-2011-thumb.jpg", Hyakujuu Sentai Gaoranger : Tập 1
 https://hd1080.opstream2.com/20220418/5279_74cc480d/index.m3u8
 #EXTINF:-1 group-title="Siêu nhân Gao" tvg-logo="https://img.ophim8.cc/uploads/movies/sieu-nhan-gao-2011-thumb.jpg", Hyakujuu Sentai Gaoranger : Tập 2
