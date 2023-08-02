@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 group-title="Siêu nhân Gao" tvg-logo="https://img.ophim8.cc/uploads/movies/sieu-nhan-gao-2011-thumb.jpg", Hyakujuu Sentai Gaoranger : Tập 1
 https://hd1080.opstream2.com/20220418/5279_74cc480d/index.m3u8
 #EXTINF:-1 group-title="Siêu nhân Gao" tvg-logo="https://img.ophim8.cc/uploads/movies/sieu-nhan-gao-2011-thumb.jpg", Hyakujuu Sentai Gaoranger : Tập 2
